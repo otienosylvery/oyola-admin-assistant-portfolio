@@ -1,14 +1,14 @@
 [
   {
     "name": "home",
-    "src": "images/portfolio_img.jpg",
+    "src": "images/por2.jpg",
     "shade": "dark",
     "adjustment": "-20%",
     "alt": "Photograph of Christopher Smith in a plum suit outside a beautiful inn"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
+    "src": "images/about_bg.png",
     "shade": "light",
     "alt": "Gray abstract background"
   },
